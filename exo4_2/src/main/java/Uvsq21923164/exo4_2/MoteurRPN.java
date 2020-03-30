@@ -1,9 +1,6 @@
 package Uvsq21923164.exo4_2;
 import java.util.Stack;
 
-import Uvsq21923164.exo4_2.cmd.OperationCommand;
-import Uvsq21923164.exo4_2.cmd.StoreNbCommand;
-
 public class MoteurRPN extends Interpreteur {
 
 	private Stack<Double> pile;

@@ -1,8 +1,5 @@
 package Uvsq21923164.exo4_2;
 
-import Uvsq21923164.exo4_2.exc.DivisionParZeroException;
-
-
 public enum Operation {
 	PLUS("+"){
 

@@ -4,11 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-import Uvsq21923164.exo4_2.cmd.Command;
-import Uvsq21923164.exo4_2.cmd.QuitCommand;
-import Uvsq21923164.exo4_2.cmd.UndoCommand;
-import Uvsq21923164.exo4_2.cmd.UndoableCommand;
-
 
 public class Interpreteur {
 	
